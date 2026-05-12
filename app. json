@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Pick Up Pro",
+    "slug": "pickupproapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#08090d"
+    },
+    "android": {
+      "adaptiveIcon
