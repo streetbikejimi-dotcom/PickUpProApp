@@ -1,3 +1,4 @@
+
 {
   "name": "pickupproapp",
   "version": "1.0.0",
@@ -16,4 +17,5 @@
   "devDependencies": {
     "@babel/core": "^7.25.0"
   },
-  "private":
+  "private": true
+}
