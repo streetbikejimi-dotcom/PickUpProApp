@@ -4,9 +4,13 @@
     "slug": "pickupproapp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "backgroundColor": "#08090d"
-    },
     "android": {
-      "adaptiveIcon
+      "package": "com.pickuppro.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "pickupproapp"
+      }
+    }
+  }
+}
