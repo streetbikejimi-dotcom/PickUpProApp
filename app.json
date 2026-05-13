@@ -1,15 +1,15 @@
 {
   "expo": {
     "name": "Pick Up Pro",
-    "slug": "pickupproapp",
+    "slug": "pick-up-pro",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"],
     "android": {
-      "package": "com.pickuppro.app"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "ad54f652-d96d-484d-a6a0-e2bb83b0fb4e"
+      "package": "com.yourname.pickuppro",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
       }
     }
   }
